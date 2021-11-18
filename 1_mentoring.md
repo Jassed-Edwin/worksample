@@ -20,6 +20,6 @@ Output: 32
 ```
 
 ###Below are useful link to help you understand working with numpy arrays
-- https://diver.diveintocode.jp/curriculums/1627
-- https://numpy.org/doc/stable/index.html
-- https://www.datacamp.com/community/tutorials/python-arrays?utm_source=adwords_ppc&utm_medium=cpc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=332602034364&utm_targetid=aud-299261629574:dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=9067844&gclid=CjwKCAiA7dKMBhBCEiwAO_crFC8ITvoGqSc1vKHuZbrPUGsGKpu-gusO8Rdd12wGavncZXMyeqvdTBoCv5cQAvD_BwE
+- [Diver Learning Page](https://diver.diveintocode.jp/curriculums/1627)
+- [Learn Numpy](https://numpy.org/doc/stable/index.html)
+- [Datacamp](https://www.datacamp.com/community/tutorials/python-arrays?utm_source=adwords_ppc&utm_medium=cpc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=332602034364&utm_targetid=aud-299261629574:dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=9067844&gclid=CjwKCAiA7dKMBhBCEiwAO_crFC8ITvoGqSc1vKHuZbrPUGsGKpu-gusO8Rdd12wGavncZXMyeqvdTBoCv5cQAvD_BwE)
