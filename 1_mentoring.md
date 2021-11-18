@@ -1,19 +1,23 @@
 # worksample
-Hello i am Mr James
+Hello i am Mr James.
 The reason you are having this erros is because of the dobble square bracket "[[ ]]" you have used in the two list of arrays. you can can slove this in two ways
 - First, if you want your output in an array, you should remove one of the square bracket in your list "b"
 Example
+```
 array_A = np.array([[1, 2, 3]])
 array_B = np.array([4, 5, 6])
 np.dot(array_A,array_B)
 Output: array([32])
+```
 
 - Secondly, if you dont want your output in an array, you should only have only one square bracket in both list "a and b
 Example
+```
 array_A = np.array([1, 2, 3])
 array_B = np.array([4, 5, 6])
 np.dot(array_A,array_B)
 Output: 32
+```
 
 ###Below are useful link to help you understand working with numpy arrays
 - https://diver.diveintocode.jp/curriculums/1627
